@@ -37,4 +37,6 @@ dicejs.quantumRandom(max, min);
 - [ ] Support dices other than 6 based with an optional parameter
 
 # Contributions
-Please be ~~free~~ özgür to contribute
+Please be ~~free~~ özgür* to contribute
+
+*özgür biradaki gibi özgür.
