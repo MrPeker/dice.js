@@ -18,5 +18,6 @@
   },
   "homepage": "https://github.com/mrpeker/dice.js",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
