@@ -39,4 +39,4 @@ dicejs.quantumRandom(max, min);
 # Contributions
 Please be ~~free~~ özgür* to contribute
 
-*özgür biradaki gibi özgür.
+**özgür biradaki gibi özgür.*
