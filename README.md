@@ -34,7 +34,7 @@ dicejs.quantumRandom(max, min);
 
 # To do
 - [x] Implementation of studies
-- [ ] Support dices other than 6 based with an optional parameter
+- [x] Support dices other than 6 based with an optional parameter
 
 # Contributions
 Please be ~~free~~ özgür* to contribute
