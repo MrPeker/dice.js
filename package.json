@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-template",
+  "version": "1.0.0",
+  "description": "Post-modern approach to dice and randomness in computers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpeker/dice.js"
+  },
+  "keywords": [
+    "dice",
+    "randomness"
+  ],
+  "author": "mrpeker",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/mrpeker/dice.js/issues"
+  },
+  "homepage": "https://github.com/mrpeker/dice.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
